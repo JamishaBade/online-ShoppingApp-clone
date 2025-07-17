@@ -14,7 +14,6 @@ The project demonstrates **modular JavaScript architecture**, **DOM manipulation
 ✔ **Dynamic Price Calculation** – Computes MRP, discounts, and total amount  
 ✔ **Separate Cart Page** – Displays added items and price breakdown  
 ✔ **Modular Code Structure** – Product data separated from UI logic  
-\
 
 ---
 
