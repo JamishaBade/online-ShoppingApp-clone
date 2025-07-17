@@ -1,5 +1,5 @@
 # online-shopping-clone
-# TulsiShop – various online shopping inspired E‑Commerce Prototype
+# TulsiShop –  online shopping apps inspired E‑Commerce Prototype
 
 
 TulsiShop is a **front-end e‑commerce web app** i built with **HTML, CSS, and JavaScript**.  
