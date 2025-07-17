@@ -3,7 +3,7 @@
 
 
 TulsiShop is a **front-end e‑commerce web app** i built with **HTML, CSS, and JavaScript**.  
-The project demonstrates **modular JavaScript architecture**, **DOM manipulation**, **cart persistence with localStorage**, and **dynamic price calculation**.
+The project demonstrates **modular JavaScript architecture**, **DOM manipulation**, **cart persistence with localStorage JSON**, and **dynamic price calculation**.
 
 ---
 
