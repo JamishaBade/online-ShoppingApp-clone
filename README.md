@@ -1,5 +1,5 @@
 # online-shopping-clone
-# 🌿 TulsiShop – various online shopping inspired E‑Commerce Prototype
+# TulsiShop – various online shopping inspired E‑Commerce Prototype
 
 
 TulsiShop is a **front-end e‑commerce web app** i built with **HTML, CSS, and JavaScript**.  
@@ -7,7 +7,7 @@ The project demonstrates **modular JavaScript architecture**, **DOM manipulation
 
 ---
 
-## 🚀 Features
+## Features
 ✔ **Product Catalog** – Loaded from a modular `items.js` file  
 ✔ **Add to Bag** – Users can add items to a shopping cart  
 ✔ **Persistent Cart** – Cart state stored in `localStorage` using JSON  
@@ -24,30 +24,6 @@ The project demonstrates **modular JavaScript architecture**, **DOM manipulation
 - **Vanilla JavaScript** (DOM manipulation, localStorage)
 - **JSON** (for data persistence)
 
----
-
-## 📂 Project Structure
-tulsiShop/
-├── index.html
-├── css/
-│   ├── index.css         
-│   ├── bag.css            
-├── data/
-│   └── items.js           
-├── scripts/
-│   ├── index.js           
-│   ├── bag.js            
-│   └── storage.js         
-├── pages/
-│   └── bag.html         
-└── images/
-    ├── 1.jpg
-    ├── 2.jpg
-    └── ...
-
-
-    
----
 
 ## How It Works
 - **Product Data** – All products are stored in `data/items.js` as an array of objects.
@@ -55,14 +31,14 @@ tulsiShop/
 - **Cart Logic** –  
   - When “Add to Bag” is clicked, the product `id` is saved in `localStorage`.
   - Cart page (`bag.html`) retrieves IDs, maps them back to product objects, and calculates:
-    - ✅ **Total MRP**
-    - ✅ **Total Discount**
-    - ✅ **Final Payable Amount**
+    - **Total MRP**
+    - **Total Discount**
+    - **Final Payable Amount**
 - **Persistence** – Cart remains intact after page refresh (via `localStorage`).
 
 ---
 
-## ✅ Current Functionality
+## Current Functionality
 - Add items to cart
 - View cart with price details
 - Remove item (if implemented)
@@ -79,9 +55,5 @@ tulsiShop/
 - [ ] **Deployment** – Host on GitHub Pages or Netlify
 - [ ] **API Simulation** – Fetch product data from a JSON file or mock API
 
----
 
-## 📸 Screenshots
-*(Add screenshots of your home page and cart page here)*  
-Example:
 
